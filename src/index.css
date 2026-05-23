@@ -189,7 +189,7 @@ body {
       }
 
       .mask {
-        @apply absolute h-full top-0 lg:-top-20 xl:top-0;
+        @apply absolute h-full top-0 lg:-top-32 xl:-top-20;
 
         img {
           @apply h-full scale-150 lg:scale-100;
