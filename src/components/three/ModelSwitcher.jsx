@@ -52,7 +52,7 @@ const ModelSwitcher = ({scale , isMobile}) => {
         speed:1,
         zoom: 1,
         azimuth:[-Infinity,Infinity],
-        polar:[-Math.PI ,Math.PI]
+        polar:[-Infinity ,Infinity],
 
     }
 
